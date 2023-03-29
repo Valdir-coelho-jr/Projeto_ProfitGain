@@ -1,0 +1,61 @@
+html {
+    overflow-x: hidden;
+}
+
+.section-bg {
+    color: white;
+    background: #28a745;
+}
+
+/* Header
+--------------------------------------*/
+
+#header .display-4 {
+    font-size: 1.2rem;
+}
+
+#header .nav-link {
+    color: white;
+
+}
+
+#header .nav-link:hover {
+    color: aquamarine;
+    transition: .7s;
+}
+
+#header .bi {
+    color: white;
+    font-size: 1.6rem;
+}
+
+/* Home Image
+--------------------------------------*/
+
+#home img {
+    width: 970px;
+}
+
+.box {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* Informative Section
+--------------------------------------*/
+#informative img {
+    width: 700px;
+}
+
+/* Economic Section
+--------------------------------------*/
+#economic img {
+    border-radius: 50% 20% / 10% 40%;
+    padding-right: 2.3rem;
+}
+
+/* Typography
+--------------------------------------*/
+footer p a {
+    margin: 5px 15px;
+}

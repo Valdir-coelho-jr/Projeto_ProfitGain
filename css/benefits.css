@@ -1,0 +1,60 @@
+/* Benefits Section
+------------------------------------*/
+#benefits .display-4 {
+    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#benefits p {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+/* Principal Section
+------------------------------------*/
+#principal h1 {
+    text-align: center;
+    font-size: 3.3rem;
+    padding-top: 70px;
+}
+
+#principal p {
+    text-align: center;
+    font-size: 1.7rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Slider Section
+------------------------------------*/
+#carousel-legend {
+    width: 1100px;
+    margin: 30px auto;
+}
+
+#carousel-legend i {
+    font-size: 3rem;
+}
+
+.carousel-inner {
+    border-radius: 14%;
+}
+
+.carousel-caption {
+    margin-bottom: 1.2rem;
+    border-radius: 45%;
+    background: rgba(0, 0, 0, 0.195);
+}
+
+.carousel-item h3 {
+    font-size: 3.1rem;
+    text-shadow: 2px 2px black;
+}
+
+.carousel-item p {
+    font-size: 1.6rem;
+    text-shadow: 2px 2px black;
+}

@@ -1,0 +1,78 @@
+/* Breakpoints
+--------------------------------------*/
+@media (max-width: 1370px) {
+    #informative img {
+        width: 40vw;
+    }
+}
+
+@media (max-width: 1200px) {
+    #informative img {
+        width: 40vw;
+    }
+
+    #carousel-legend {
+        width: 90vw;
+    }
+
+    .carousel-item h3 {
+        font-size: 3.1rem;
+        text-shadow: 2px 2px black;
+    }
+
+    .carousel-item p {
+        font-size: 1.3rem;
+        text-shadow: 2px 2px black;
+    }
+}
+
+@media (max-width: 991px) {
+    #informative img {
+        width: 40vw;
+    }
+
+    .carousel-item h3 {
+        font-size: 2.1rem;
+        text-shadow: 2px 2px black;
+    }
+
+    .carousel-item p {
+        font-size: 1.0rem;
+        text-shadow: 2px 2px black;
+    }
+}
+
+@media (max-width: 768px) {
+    #informative img {
+        width: 40vw;
+    }
+}
+
+@media (max-width: 617px) {
+    #informative img {
+        width: 40vw;
+    }
+}
+
+@media (max-width: 450px) {
+    #informative img {
+        display: none;
+    }
+
+
+    .carousel-item h3 {
+        font-size: 1.1rem;
+        text-shadow: 2px 2px black;
+    }
+
+    .carousel-item p {
+        font-size: .7rem;
+        text-shadow: 2px 2px black;
+    }
+}
+
+@media (max-width: 365px) {
+    #informative img {
+        display: none;
+    }
+}
